@@ -67,6 +67,13 @@ Bu analizden elde edilen temel bulgular ve içgörüler aşağıdadır:
 
     <img src="images/turkiye_motor_size_stacked_area.png" alt="Türkiye Motor Boyutu Yığılmış Alan Grafiği" width="800"/>
 
+* **Dört Ülke Motor Boyutu Pazar Payı Karşılaştırması (2010-2023):**
+    * Fransa ve Romanya'nın 1.4L altı motor pazar payı trendleri benzer bir seyir izlemiştir. Fransa'da 1.4L altı motorlar 2017 sonlarına doğru pazar lideri haline gelmiş ve 2023'e kadar bu liderliğini korumuştur, ancak pazar payı oranı azalmıştır. Romanya'da ise 1.4L altı ve 1.4-1.99L arası motorlar arasında liderlik zaman zaman yer değiştirmiştir.
+
+    * Almanya'da 1.4L altı motor pazarı, Fransa, Türkiye ve Romanya'nın aksine hiçbir zaman %40'a ulaşmamıştır. Bunun yerine, 1.4-1.99L motorlar yaklaşık %45'lik bir pazar payı hakimiyetini korumuştur. Bu durum, Almanya'daki tüketici tercihlerinin ve pazar yapısının diğer ülkelere göre farklılaştığını göstermektedir.
+
+    <img src="images/four_country_comparison.png" alt="Dört Ülkenin Motor Boyutu Pazar Payı Karşılaştırması" width="800"/>
+
 * **Veri Sınırlılıkları:**
     * Analiz edilen Eurostat veri setinde elektrikli ve hibrit araçlar için ayrı bir `mot_nrg` kategorisinin bulunmaması, bu önemli ve yükselen pazar segmentinin doğrudan incelenmesini engellemiştir. Bu durum, gelecekteki analizler için farklı veya daha güncel veri kaynaklarına ihtiyaç duyulduğunu göstermektedir.
     * Veri setindeki özellikle eski yıllara ait yoğun `NaN` (eksik veri) değerleri, erken dönem trendlerin yorumlanmasında belirsizliklere yol açmıştır.
@@ -77,5 +84,4 @@ Bu proje, binek otomobil pazarındaki temel trendleri anlamak için sağlam bir 
 
 * **Ek Veri Kaynaklarının Entegrasyonu:** Elektrikli ve hibrit araç tescillerini ayrıntılı olarak içeren daha güncel ve kapsamlı veri setleri entegre edilebilir. Ayrıca, yakıt fiyatları, GSYİH, araç başına düşen gelir gibi makroekonomik göstergelerle tescil verileri birleştirilerek daha derinlemesine korelasyon analizleri yapılabilir.
 * **Etkileşimli Dashboard Oluşturma:** Elde edilen bulguları ve görselleştirmeleri, Tableau, Power BI gibi araçlar kullanarak etkileşimli bir dashboard'a dönüştürmek, kullanıcıların veriyi keşfetmesine olanak tanır ve projenin sunumunu güçlendirir.
-* **Daha Detaylı Ülke Analizleri:** Belirli Avrupa ülkeleri (örn. Fransa, İtalya, İspanya) veya bölgeler için daha derinlemesine analizler yaparak, yerel pazar dinamiklerinin ve politikalarının etkileri incelenebilir.
 * **Araç Segmentasyonu Analizi:** Eğer veri mevcut olursa, araç segmentlerine (SUV, sedan, hatchback vb.) göre pazar payı trendleri ve müşteri tercihleri incelenebilir.
