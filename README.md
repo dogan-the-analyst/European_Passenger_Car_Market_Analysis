@@ -85,5 +85,4 @@ This project provides a solid foundation for understanding key trends in the pas
 
 * **Integration of Additional Data Sources:** More current and comprehensive datasets detailing electric and hybrid vehicle registrations can be integrated. Furthermore, market data can be combined with macroeconomic indicators such as fuel prices, GDP, and per capita income to conduct more in-depth correlation analyses.
 * **Creation of an Interactive Dashboard:** Transforming the findings and visualizations into an interactive dashboard using tools like Tableau or Power BI would allow users to explore the data and strengthen the project's presentation.
-* **More Detailed Country Analyses:** More in-depth analyses can be conducted for specific European countries (e.g., France, Italy, Spain) or regions to examine the effects of local market dynamics and policies.
 * **Vehicle Segmentation Analysis:** If data becomes available, market share trends and customer preferences based on vehicle segments (SUV, sedan, hatchback, etc.) can be examined.
