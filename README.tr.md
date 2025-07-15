@@ -70,7 +70,7 @@ Bu analizden elde edilen temel bulgular ve içgörüler aşağıdadır:
 * **Dört Ülkenin Motor Hacmi Pazar Payı Karşılaştırması (2010-2023):**
     * Fransa ve Romanya'nın 1.4L altı motor pazar payı trendleri benzer bir seyir izlemiştir. Fransa'da 1.4L altı motorlar 2017 sonlarına doğru pazar lideri haline gelmiş ve 2023'e kadar bu liderliğini korumuştur, ancak pazar payı oranı azalmıştır. Romanya'da ise 1.4L altı ve 1.4-1.99L arası motorlar arasında liderlik zaman zaman yer değiştirmiştir.
 
-    * Almanya'da 1.4L altı motor pazarı, Fransa, Türkiye ve Romanya'nın aksine hiçbir zaman %40'a ulaşmamıştır. Bunun yerine, 1.4-1.99L motorlar yaklaşık %45'lik bir pazar payı hakimiyetini korumuştur. Bu durum, Almanya'daki tüketici tercihlerinin ve pazar yapısının diğer ülkelere göre farklılaştığını göstermektedir.
+    * Almanya'da 1.4L altı motor pazarı, Fransa, Türkiye ve Romanya'nın aksine hiçbir zaman %40'a ulaşmamıştır. Bunun yerine, 1.4-1.99L motorlar yaklaşık %45-50'lik bir pazar payı hakimiyetini korumuştur. Bu durum, Almanya'daki tüketici tercihlerinin ve pazar yapısının diğer ülkelere göre farklılaştığını göstermektedir.
 
     <img src="images/four_country_comparison.png" alt="Dört Ülkenin Motor Boyutu Pazar Payı Karşılaştırması" width="800"/>
 
