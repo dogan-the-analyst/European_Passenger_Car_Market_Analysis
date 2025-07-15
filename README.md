@@ -71,7 +71,7 @@ The main findings and insights derived from this analysis are as follows:
 
     * The 1.4L and below engine market share trends in France and Romania followed a similar course. In France, sub-1.4L engines became the market leader towards the end of 2017 and maintained this leadership until 2023, although their market share percentage decreased. In Romania, leadership between sub-1.4L and 1.4-1.99L engines shifted occasionally.
 
-    * In Germany, the sub-1.4L engine market never reached 40%, unlike France, Türkiye, and Romania. Instead, 1.4-1.99L engines maintained a market share dominance of approximately 45%. This situation indicates that consumer preferences and market structure in Germany differ from other countries.
+    * In Germany, the sub-1.4L engine market never reached 40%, unlike France, Türkiye, and Romania. Instead, 1.4-1.99L engines maintained a market share dominance of approximately 45-50%. This situation indicates that consumer preferences and market structure in Germany differ from other countries.
 
     <img src="images/four_country_comparison.png" alt="Four Countries Engine Size Market Share Comparison" width="800"/>
 
