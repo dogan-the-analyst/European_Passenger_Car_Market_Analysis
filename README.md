@@ -1,6 +1,6 @@
 # European Passenger Car Market Analysis
 
-This project analyzes the dynamics of new passenger car registrations in the European Union and Türkiye, using comprehensive data obtained from Eurostat. Our primary goal is to analyze market share trends based on motor energy types (Diesel, Petrol) and engine size classes (below 1.4L, 1.4-2.0L, above 2.0L), and specifically to identify and explain the differences between Germany and Türkiye.
+This project analyzes the dynamics of new passenger car registrations in the European Union and Türkiye, using comprehensive data obtained from Eurostat. Our primary goal is to analyze market share trends based on motor energy types (Diesel, Petrol) and engine size classes (below 1.4L, 1.4-2.0L, above 2.0L), and specifically to identify and explain the differences between EU countries and Türkiye.
 
 ## Data Source
 
@@ -74,6 +74,20 @@ The main findings and insights derived from this analysis are as follows:
     * In Germany, the sub-1.4L engine market never reached 40%, unlike France, Türkiye, and Romania. Instead, 1.4-1.99L engines maintained a market share dominance of approximately 45-50%. This situation indicates that consumer preferences and market structure in Germany differ from other countries.
 
     <img src="images/four_country_comparison.png" alt="Four Countries Engine Size Market Share Comparison" width="800"/>
+
+* **Impact of Dieselgate Scandal on Diesel Passenger Car Registrations (2010-2023):**
+
+    * France: Experienced the sharpest decline in average annual diesel registrations, at -51.2%.
+
+    * Türkiye: Recorded a substantial decrease of -30.8% in average annual diesel registrations.
+
+    * Romania: Showed a -32.5% drop in average annual diesel registrations.
+
+    * Germany: Despite being at the epicenter of the scandal, saw a relatively smaller decrease of -28.3% in average annual diesel registrations compared to others.
+
+    * These findings clearly demonstrate the profound and lasting impact of the scandal and subsequent environmental awareness on consumer preferences and automotive markets across Europe.
+
+    <img src="images/dieselgate_impact_bar_chart.png" alt="Dieselgate Scandal Impact on Diesel Registrations Bar Chart" width="800"/>
 
 * **Data Limitations:**
     * The absence of a separate `mot_nrg` category for electric and hybrid vehicles in the analyzed Eurostat dataset prevented a direct examination of this important and rising market segment. This indicates the need for different or more current data sources for future analyses.

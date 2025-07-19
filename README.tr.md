@@ -1,6 +1,6 @@
 # Avrupa Binek Otomobil Pazar Analizi
 
-Bu proje, Eurostat'tan alınan kapsamlı verileri kullanarak Avrupa Birliği ve Türkiye'deki yeni binek otomobil tescillerinin dinamiklerini inceler. Temel hedefimiz, motor enerji tipleri (Dizel, Benzin) ve motor hacmi sınıfları (1.4L altı, 1.4-2.0L arası, 2.0L üstü) bazında pazar payı trendlerini analiz etmek ve özellikle Almanya ile Türkiye arasındaki farklılıkları ve nedenlerini ortaya koymaktır.
+Bu proje, Eurostat'tan alınan kapsamlı verileri kullanarak Avrupa Birliği ve Türkiye'deki yeni binek otomobil tescillerinin dinamiklerini inceler. Temel hedefimiz, motor enerji tipleri (Dizel, Benzin) ve motor hacmi sınıfları (1.4L altı, 1.4-2.0L arası, 2.0L üstü) bazında pazar payı trendlerini analiz etmek ve özellikle AB ülkeleri ile Türkiye arasındaki farklılıkları ve nedenlerini ortaya koymaktır.
 
 ## Veri Kaynağı
 
@@ -73,6 +73,20 @@ Bu analizden elde edilen temel bulgular ve içgörüler aşağıdadır:
     * Almanya'da 1.4L altı motor pazarı, Fransa, Türkiye ve Romanya'nın aksine hiçbir zaman %40'a ulaşmamıştır. Bunun yerine, 1.4-1.99L motorlar yaklaşık %45-50'lik bir pazar payı hakimiyetini korumuştur. Bu durum, Almanya'daki tüketici tercihlerinin ve pazar yapısının diğer ülkelere göre farklılaştığını göstermektedir.
 
     <img src="images/four_country_comparison.png" alt="Dört Ülkenin Motor Boyutu Pazar Payı Karşılaştırması" width="800"/>
+
+* **Dieselgate Skandalının Dizel Binek Otomobil Tescillerine Etkisi (2010-2023):**
+
+    * Fransa: Ortalama yıllık dizel tescillerinde %51.2 ile en keskin düşüşü yaşamıştır.
+
+    * Türkiye: Ortalama yıllık dizel tescillerinde %30.8'lik önemli bir düşüş kaydetmiştir.
+
+    * Romanya: Ortalama yıllık dizel tescillerinde %32.5'lik bir düşüş göstermiştir.
+
+    * Almanya: Skandalın merkezinde olmasına rağmen, ortalama yıllık dizel tescillerinde %28.3'lük bir düşüşle diğerlerine göre nispeten daha az etkilenmiştir.
+
+    * Bu bulgular, skandalın ve sonrasındaki çevresel farkındalığın Avrupa otomotiv pazarlarındaki tüketici tercihleri üzerindeki derin ve kalıcı etkisini açıkça ortaya koymaktadır.
+
+    <img src="images/dieselgate_impact_bar_chart.png" alt="Dieselgate Skandalının Dizel Tescillere Etkisi Bar Grafiği" width="800"/>
 
 * **Veri Sınırlılıkları:**
     * Analiz edilen Eurostat veri setinde elektrikli ve hibrit araçlar için ayrı bir `mot_nrg` kategorisinin bulunmaması, bu önemli ve yükselen pazar segmentinin doğrudan incelenmesini engellemiştir. Bu durum, gelecekteki analizler için farklı veya daha güncel veri kaynaklarına ihtiyaç duyulduğunu göstermektedir.
